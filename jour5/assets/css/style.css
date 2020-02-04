@@ -1,4 +1,15 @@
 
+#header .part-nav{
+border-width: 2px;
+padding: 10px 10px;
+border-color: black;
+border: black;
+text-align: center;
+justify-content: center;
+
+}
+
+
 #main-accueil img
 {
     width: 1500px;
@@ -11,6 +22,8 @@
     padding: 10px 10px;
     margin: 10px 10px;
     text-align: center;
+    font-size: 40px;
+    font-weight: bold;
 }
 
 #main-part1
@@ -88,6 +101,8 @@ display: flex;
 justify-content: center;
 padding: 1px 1px;
 margin: 1px 1px;
+font-size:30px;
+font-weight: bold;
 }
 
 #main-titre .titre1
