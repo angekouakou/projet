@@ -1,0 +1,21 @@
+
+#main-accueil
+{
+ width: 100px;
+}
+
+
+#main-part1
+{
+display: flex;
+}
+
+#main-part2
+{
+display: flex;
+}
+
+#main-part3
+{
+flex-grow: 2px;
+}
