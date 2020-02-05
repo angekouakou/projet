@@ -1,5 +1,5 @@
 
-<?php
+
 
 
 <section id="section-index1">
@@ -37,4 +37,4 @@ Régulièrement formés aux nouvelles méthodes et procédures du domaine du bâ
 
 
 
-?>
+

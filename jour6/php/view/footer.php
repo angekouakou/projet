@@ -1,7 +1,7 @@
 
 
 
-<?php
+
     </main>
 
 
@@ -11,5 +11,3 @@
 </footer>
 </body>
 </html>
-
-?>

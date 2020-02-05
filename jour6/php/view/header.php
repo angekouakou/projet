@@ -1,5 +1,4 @@
 
-<?php
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,9 +14,9 @@
     <header>
 <h1>mon  site web</h1>
 <nav>
- <a href="php/view/index.php">Accueil</a>
- <a href="php/view/service.php">Service</a>
- <a href="php/view/contact.php">Contact</a>
+ <a href="index.php">Accueil</a>
+ <a href="service.php">Service</a>
+ <a href="contact.php">Contact</a>
 
 </nav>
     </header>
@@ -26,4 +25,3 @@
 
 
 
-?>
