@@ -1,0 +1,25 @@
+h1 
+{
+ font-style:italic;
+ font-size: large;
+ font-weight: bold;
+ color: blue;
+ border: 2px;
+ border-color: blue;
+ margin: 2px;
+
+}
+
+.container1
+{
+display: flex;
+width: 90px;
+
+}
+.container1 img 
+{
+margin: 20px;
+width:calc(100/3 - 40px);
+height: 200px;
+
+}
