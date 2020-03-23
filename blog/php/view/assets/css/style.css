@@ -1,0 +1,71 @@
+h1 img {
+    width: 200px;
+    height: 150px;
+}
+
+
+
+
+#classak {
+    color: white;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+form>* {
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.container img {
+    max-width: 100%;
+   
+
+}
+
+.container-accueil img {
+    max-width:100%;
+	
+
+}
+
+.liste_article{
+
+display: flex;
+padding: 10px;
+margin: 20px;
+justify-content: flex-start;
+
+
+}
+
+.liste_article img{
+
+    padding: 20px;
+    margin: 20px;
+}
+
+
+.liste_article p{
+
+
+    margin: 20px;
+}
+
+.liste_article h3{
+
+
+    margin: 20px;
+}
+

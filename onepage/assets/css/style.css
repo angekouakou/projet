@@ -113,3 +113,28 @@ h1 img
 .contain2{
   margin: 100px;
 }
+
+.container3
+{
+ 
+}
+
+form {
+  display:flex;
+  flex-direction: column;
+  width: 500px;
+  margin-left: 500px;
+  border-radius: 16px;
+}
+
+.classfooter 
+{
+margin: 50px;
+padding: 50px;
+color: white;
+display: flex;
+}
+  
+.classfooter P {
+  margin-left: 200px;
+}

@@ -1,7 +1,13 @@
+
+
+
+
+
+
 </main>
 
-
-
+<script src="assets/js/app.js"></script>
+  
 
 
 <!-- Footer -->
@@ -122,5 +128,10 @@
 
 </footer>
 <!-- Footer -->
+
+
+
+
 </body>
+
 </html>
