@@ -21,9 +21,13 @@ clique.addEventListener("submit",function(event){
     const title = document.querySelector("h2");
     const description = document.querySelector("h3");
 
-       
-        title.innerText += title;
-        description.innerText += description;
+    
+    const title1 = data.article.title
+    const description2 = data.article.description 
+
+
+        title.innerText += title1;
+        description.innerText += description2;
         
         console.log(data);
     })
