@@ -21,7 +21,7 @@ clique.addEventListener("submit",function(event){
     const title = document.querySelector("h2");
     const description = document.querySelector("h3");
 
-    
+    //difficulté a acceder a la valeur de article 
     const title1 = data.article.title
     const description2 = data.article.description 
 
